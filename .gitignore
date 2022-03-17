@@ -1,0 +1,10 @@
+deployment.md
+.DS_Store
+db.sqlite3
+**/__pycache__
+**/migrations
+**/custom_settings*.py
+server.log
+start.py
+.vscode/
+.env
