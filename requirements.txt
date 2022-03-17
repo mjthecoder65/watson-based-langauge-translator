@@ -3,6 +3,7 @@ charset-normalizer==2.0.12
 click==8.0.4
 Flask==2.0.3
 Flask-WTF==0.14.3
+gunicorn==20.1.0
 ibm-cloud-sdk-core==1.5.1
 ibm-watson==4.4.1
 idna==3.3
