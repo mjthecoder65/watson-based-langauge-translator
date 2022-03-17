@@ -8,3 +8,4 @@ server.log
 start.py
 .vscode/
 .env
+venv/
